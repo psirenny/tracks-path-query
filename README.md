@@ -1,6 +1,6 @@
 # Tracks
 
-Fork of [Tracks](https://github.com/derbyjs/tracks) that uses a query parameter instead of the HTML5 History API to perform routing. This is useful for performing routing on the file:// protocol.
+Fork of [Tracks](https://github.com/derbyjs/tracks) that uses a query parameter instead of the HTML5 History API for routing. This is useful for performing routing on webpages using the `file://` protocol.
 
 ## MIT License
 Copyright (c) 2012 by Nate Smith and Brian Noguchi
