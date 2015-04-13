@@ -1,5 +1,5 @@
 {
-  "name": "tracks",
+  "name": "tracks-path-query",
   "description": "Fork of tracks that uses a query parameter instead of the HTML5 History API for routing.",
   "repository": {
     "type": "git",
