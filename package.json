@@ -1,0 +1,28 @@
+{
+  "name": "tracks",
+  "description": "Fork of tracks that uses a query parameter instead of the HTML5 History API to perform routing.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codeparty/tracks.git"
+  },
+  "version": "0.5.4",
+  "main": "./lib/index.js",
+  "browserify": {
+    "main": "./lib/browser.js"
+  },
+  "browser": "./lib/browser.js",
+  "dependencies": {
+    "qs": "~0.6.5",
+    "methods": "0.0.1",
+    "debug": "~0.7.2"
+  },
+  "devDependencies": {
+    "mocha": ">=1",
+    "expect.js": ">=0.1.2",
+    "coffee-script": ">=1.3.1"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "optionalDependencies": {}
+}
