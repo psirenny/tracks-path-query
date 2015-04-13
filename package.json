@@ -1,6 +1,6 @@
 {
   "name": "tracks",
-  "description": "Fork of tracks that uses a query parameter instead of the HTML5 History API to perform routing.",
+  "description": "Fork of tracks that uses a query parameter instead of the HTML5 History API for routing.",
   "repository": {
     "type": "git",
     "url": "git://github.com/codeparty/tracks.git"
